@@ -1,0 +1,4 @@
+Tensorflow
+keras
+numpy
+pre-trained model (MobileNetV2)

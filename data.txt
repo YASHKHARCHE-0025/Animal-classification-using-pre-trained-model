@@ -1,0 +1,3 @@
+This project uses the animal images dataset from Kaggle:
+
+https://www.kaggle.com/datasets/mdismielhossenabir/animal-image-for-recognition
